@@ -9,11 +9,7 @@ This repository contains a Python code that demonstrates object detection using 
     Clone this repository to your local machine or download the source code directly.
     Download the YOLOv4 weights from the following link: YOLOv4 Weights.
     Place the downloaded weights file in the same directory as the code file
-## Installation
-To install the required dependencies, run the following command:
-```python
-pip install opencv-python numpy
-...
+
 
 
 ## Usage
@@ -24,3 +20,9 @@ pip install opencv-python numpy
     Iterate over the detected objects and draw rectangles around them on the frame.
     Display the annotated frame using OpenCV's imshow function.
     Wait for a specified duration (in milliseconds) using waitKey, and then close the window.
+
+## Installation
+To install the required dependencies, run the following command:
+```python
+pip install opencv-python numpy
+...
