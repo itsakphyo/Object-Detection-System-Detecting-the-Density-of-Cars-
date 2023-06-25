@@ -25,4 +25,3 @@ This repository contains a Python code that demonstrates object detection using 
 To install the required dependencies, run the following command:
 ```python
 pip install opencv-python numpy
-...
