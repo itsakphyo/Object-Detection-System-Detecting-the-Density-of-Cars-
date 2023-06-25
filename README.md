@@ -7,7 +7,7 @@ This repository contains a Python code that demonstrates object detection using 
 
 ## Getting Started
     Clone this repository to your local machine or download the source code directly.
-    Download the YOLOv4 weights from the following link: YOLOv4 Weights.
+    Download the YOLOv4 weights from the following link: YOLOv4 Weights.[link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi_uOjb-d3_AhVPbmwGHR40BnIQFnoECBYQAQ&url=https%3A%2F%2Fgithub.com%2FAlexeyAB%2Fdarknet%2Freleases%2Fdownload%2Fdarknet_yolo_v3_optimal%2Fyolov4.weights&usg=AOvVaw30if4joxtTaS8DAh12vYQ4&opi=89978449)
     Place the downloaded weights file in the same directory as the code file
 
 
